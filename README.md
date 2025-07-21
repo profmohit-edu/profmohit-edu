@@ -1,6 +1,6 @@
 # 👨‍🏫 Mr. Mohit Tiwari
 
-🎓 Assistant Professor | Ph.D. Scholar | AI & Cybersecurity Researcher  
+🎓 Assistant Professor | AI & Cybersecurity Researcher  
 📍 Bharati Vidyapeeth’s College of Engineering, New Delhi
 
 ---
