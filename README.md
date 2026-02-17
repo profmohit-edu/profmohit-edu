@@ -1,6 +1,6 @@
 # 👨‍🏫 Prof. Mohit Tiwari
 
-🎓 Assistant Professor | AI & Cybersecurity Researcher  
+   Assistant Professor, Computer Science & Engineering, Bharati Vidyapeeth’s College of Engineering (BVCOE), Delhi | Cybersecurity | AI Systems | Context-Driven               Engineering Learning
 📍 Bharati Vidyapeeth’s College of Engineering, New Delhi
 
 ---
